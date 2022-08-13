@@ -1,2 +1,2 @@
 # Contributing to this code...
-### All contributions, #### bug reports, #### bug fixes, #### documentation improvements, #### enhancements, and #### ideas are welcome.
+### All contributions, Bug reports, Bug fixes, Documentation improvements, Enhancements, and ideas are welcome.
